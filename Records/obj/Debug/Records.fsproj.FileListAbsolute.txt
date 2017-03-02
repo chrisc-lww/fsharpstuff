@@ -1,0 +1,4 @@
+c:\Users\Chris\Documents\Visual Studio 2015\Projects\Records\bin\Debug\Records.dll
+c:\Users\Chris\Documents\Visual Studio 2015\Projects\Records\bin\Debug\FSharp.Core.dll
+c:\Users\Chris\Documents\Visual Studio 2015\Projects\Records\bin\Debug\FSharp.Core.xml
+c:\Users\Chris\Documents\Visual Studio 2015\Projects\Records\obj\Debug\Records.fsprojResolveAssemblyReference.cache

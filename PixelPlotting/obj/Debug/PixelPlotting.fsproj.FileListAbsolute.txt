@@ -1,0 +1,4 @@
+c:\Users\Chris\Documents\Visual Studio 2015\Projects\PixelPlotting\bin\Debug\PixelPlotting.dll
+c:\Users\Chris\Documents\Visual Studio 2015\Projects\PixelPlotting\bin\Debug\FSharp.Core.dll
+c:\Users\Chris\Documents\Visual Studio 2015\Projects\PixelPlotting\bin\Debug\FSharp.Core.xml
+c:\Users\Chris\Documents\Visual Studio 2015\Projects\PixelPlotting\obj\Debug\PixelPlotting.fsprojResolveAssemblyReference.cache

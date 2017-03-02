@@ -1,0 +1,4 @@
+c:\Users\Chris\Documents\Visual Studio 2015\Projects\Refactor\bin\Debug\Refactor.dll
+c:\Users\Chris\Documents\Visual Studio 2015\Projects\Refactor\bin\Debug\FSharp.Core.dll
+c:\Users\Chris\Documents\Visual Studio 2015\Projects\Refactor\bin\Debug\FSharp.Core.xml
+c:\Users\Chris\Documents\Visual Studio 2015\Projects\Refactor\obj\Debug\Refactor.fsprojResolveAssemblyReference.cache

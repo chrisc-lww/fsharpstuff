@@ -1,0 +1,4 @@
+c:\Users\Chris\Documents\Visual Studio 2015\Projects\CreateSquare\bin\Debug\CreateSquare.dll
+c:\Users\Chris\Documents\Visual Studio 2015\Projects\CreateSquare\bin\Debug\FSharp.Core.dll
+c:\Users\Chris\Documents\Visual Studio 2015\Projects\CreateSquare\bin\Debug\FSharp.Core.xml
+c:\Users\Chris\Documents\Visual Studio 2015\Projects\CreateSquare\obj\Debug\CreateSquare.fsprojResolveAssemblyReference.cache
